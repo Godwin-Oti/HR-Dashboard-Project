@@ -12,6 +12,7 @@ This project involves the creation of a realistic Human Resources (HR) dataset a
 - Interactive Visualizations: Developed an HR dashboard using Tableau to visualize employee data and trends.
 - Data Insights: Enhanced BI skills by creating interactive charts, filters, and reports for effective data analysis.
 - Decision-Making: Provided actionable insights to improve HR processes and strategic decisions.
+- [Explore the Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/HRDashboard_17234756244750/HRDetails)
 ## Technologies Used
 - Python: For data generation and manipulation using libraries like Pandas, NumPy, and Faker.
 - Tableau: For creating interactive dashboards and visualizations.
