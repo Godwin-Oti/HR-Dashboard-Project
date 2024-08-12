@@ -25,7 +25,7 @@ This project involves the creation of a realistic Human Resources (HR) dataset a
 - Tableau (for dashboard visualization)
 ### Installation
 1. Clone the Repository:
-git clone https://github.com/yourusername/hr-dashboard-project.git
+git clone https://github.com/Godwin-Oti/HR-Dashboard-Project
 cd hr-dashboard-project
 2. Install Python Libraries:
 pip install pandas numpy faker
