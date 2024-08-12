@@ -25,14 +25,19 @@ This project involves the creation of a realistic Human Resources (HR) dataset a
 - Tableau (for dashboard visualization)
 ### Installation
 1. Clone the Repository:
+ ```bash
 git clone https://github.com/Godwin-Oti/HR-Dashboard-Project
 cd hr-dashboard-project
-2. Install Python Libraries:
+```
+3. Install Python Libraries:
+```bash
 pip install pandas numpy faker
-3. Run the Data Generation Script:
+```
+5. Run the Data Generation Script:
+```bash
 python generate_hr_data.py
-
-This script generates the HR dataset and saves it as HumanResources.csv.
+```
+This script generates the HR dataset and saves it as HumanResources_Germany.csv.
 
 4. Import CSV into Tableau:
 - Open Tableau.
